@@ -1,0 +1,4 @@
+*PRIMEIRAMENTE* Na pasta do bot, criar uma pasta com o o nome *ARQUIVOS,* dentro dela 
+criar outro de nome *GAMES,* dentro cria outra *DADO* e dentro de dados 
+copiar os arquivos de figurinhas animadas dos dados de 1 a 6 que irei 
+enviar compactado. Vaificar assim ./arquivos/games/dado/
